@@ -1,0 +1,13 @@
+.add{
+    font-size: large;
+    color:green;
+}
+
+.add:hover{
+    text-decoration: underline;
+}
+
+.edit{
+    font-size: 25px;
+    color:green;
+}

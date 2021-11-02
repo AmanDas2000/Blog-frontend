@@ -1,0 +1,12 @@
+.addcard{
+    padding: 20px 20px 60px 20px;
+    text-align: center;
+    max-width: 70%;
+    margin: 10px auto;
+    border:1px solid var(--color);
+}
+
+.textArea{
+    min-height: 50vh;
+}
+

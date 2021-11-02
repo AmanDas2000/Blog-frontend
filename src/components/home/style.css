@@ -1,0 +1,10 @@
+
+
+:root {
+    --color: lime;
+  }
+
+  .home{
+    font-size: 50px;
+    text-align: center;
+  }

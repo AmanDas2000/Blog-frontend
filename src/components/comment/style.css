@@ -1,0 +1,16 @@
+
+
+.commentCard{
+    max-width: 40%;
+    padding:20px;
+}
+
+.contentComment{
+    font-size:17px;
+    color: black;
+}
+
+.authorComment{
+    font-size: 15px;
+    color: rgb(80, 80, 80);
+}
